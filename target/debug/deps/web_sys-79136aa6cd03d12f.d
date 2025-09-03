@@ -1,0 +1,11 @@
+C:\Adventure_web_game\target\debug\deps\web_sys-79136aa6cd03d12f.d: C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\lib.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\mod.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_EventTarget.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_Window.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_console.rs
+
+C:\Adventure_web_game\target\debug\deps\libweb_sys-79136aa6cd03d12f.rlib: C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\lib.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\mod.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_EventTarget.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_Window.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_console.rs
+
+C:\Adventure_web_game\target\debug\deps\libweb_sys-79136aa6cd03d12f.rmeta: C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\lib.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\mod.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_EventTarget.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_Window.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_console.rs
+
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\lib.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\mod.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_EventTarget.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_Window.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\web-sys-0.3.77\src\features\gen_console.rs:

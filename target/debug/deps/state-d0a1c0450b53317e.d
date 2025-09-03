@@ -1,0 +1,12 @@
+C:\Adventure_web_game\target\debug\deps\state-d0a1c0450b53317e.d: C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\lib.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\ident_hash.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\cell.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\init.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\shim.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\type_map.rs
+
+C:\Adventure_web_game\target\debug\deps\libstate-d0a1c0450b53317e.rlib: C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\lib.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\ident_hash.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\cell.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\init.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\shim.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\type_map.rs
+
+C:\Adventure_web_game\target\debug\deps\libstate-d0a1c0450b53317e.rmeta: C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\lib.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\ident_hash.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\cell.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\init.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\shim.rs C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\type_map.rs
+
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\lib.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\ident_hash.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\cell.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\init.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\shim.rs:
+C:\Users\GGPC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\type_map.rs:
